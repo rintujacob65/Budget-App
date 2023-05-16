@@ -1,2 +1,2 @@
-# Budget-App
+# Indecision App
 React, CSS, Sass,Javascript,Webpack
